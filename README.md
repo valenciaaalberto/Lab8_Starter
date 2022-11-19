@@ -1,1 +1,2 @@
 # Lab 8 - Starter
+1) Option 1 seems best because this would be a form of incremental testing that would allow a team to catch any bugs as soon as the code is produce. While option 2 seems like a good option for exploring the tool, it would be much more efficient to automate it after understanding how the tool works. Option 3 sounds like a team could find out their code has many errors once they finish all development, which is not the best practice because it makes it harder to debug.
